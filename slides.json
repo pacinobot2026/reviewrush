@@ -1,0 +1,1067 @@
+{
+  "slides": [
+    {
+      "index": 1,
+      "text": "What if I told you the",
+      "start": 0.0,
+      "end": 1.12,
+      "duration": 1.12,
+      "path": "reviewrush/slides/slide_0001.png",
+      "word_count": 6
+    },
+    {
+      "index": 2,
+      "text": "difference between your business",
+      "start": 1.12,
+      "end": 2.44,
+      "duration": 1.3199999999999998,
+      "path": "reviewrush/slides/slide_0002.png",
+      "word_count": 4
+    },
+    {
+      "index": 3,
+      "text": "and your competitor with 147 Google reviews?",
+      "start": 2.44,
+      "end": 5.9,
+      "duration": 3.4600000000000004,
+      "path": "reviewrush/slides/slide_0003.png",
+      "word_count": 7
+    },
+    {
+      "index": 4,
+      "text": "Isn't that they're better than you?",
+      "start": 6.42,
+      "end": 7.92,
+      "duration": 1.5,
+      "path": "reviewrush/slides/slide_0004.png",
+      "word_count": 6
+    },
+    {
+      "index": 5,
+      "text": "It's that they ask and you don't.",
+      "start": 8.24,
+      "end": 10.84,
+      "duration": 2.5999999999999996,
+      "path": "reviewrush/slides/slide_0005.png",
+      "word_count": 7
+    },
+    {
+      "index": 6,
+      "text": "I'm Chad Nicely.",
+      "start": 11.02,
+      "end": 12.5,
+      "duration": 1.4800000000000004,
+      "path": "reviewrush/slides/slide_0006.png",
+      "word_count": 3
+    },
+    {
+      "index": 7,
+      "text": "And in the next few minutes,",
+      "start": 13.08,
+      "end": 14.26,
+      "duration": 1.1799999999999997,
+      "path": "reviewrush/slides/slide_0007.png",
+      "word_count": 6
+    },
+    {
+      "index": 8,
+      "text": "I'm going to show you a",
+      "start": 14.26,
+      "end": 15.82,
+      "duration": 1.5600000000000005,
+      "path": "reviewrush/slides/slide_0008.png",
+      "word_count": 6
+    },
+    {
+      "index": 9,
+      "text": "dead simple system",
+      "start": 15.82,
+      "end": 17.0,
+      "duration": 1.1799999999999997,
+      "path": "reviewrush/slides/slide_0009.png",
+      "word_count": 3
+    },
+    {
+      "index": 10,
+      "text": "that turns your happy customers into",
+      "start": 17.0,
+      "end": 19.14,
+      "duration": 2.1400000000000006,
+      "path": "reviewrush/slides/slide_0010.png",
+      "word_count": 6
+    },
+    {
+      "index": 11,
+      "text": "five star reviews",
+      "start": 19.14,
+      "end": 20.36,
+      "duration": 1.2199999999999989,
+      "path": "reviewrush/slides/slide_0011.png",
+      "word_count": 3
+    },
+    {
+      "index": 12,
+      "text": "on autopilot, no awkward conversations, no begging,",
+      "start": 20.36,
+      "end": 24.42,
+      "duration": 4.060000000000002,
+      "path": "reviewrush/slides/slide_0012.png",
+      "word_count": 7
+    },
+    {
+      "index": 13,
+      "text": "no chasing people down.",
+      "start": 24.9,
+      "end": 26.22,
+      "duration": 1.3200000000000003,
+      "path": "reviewrush/slides/slide_0013.png",
+      "word_count": 4
+    },
+    {
+      "index": 14,
+      "text": "Let's dive in.",
+      "start": 26.72,
+      "end": 27.66,
+      "duration": 0.9400000000000013,
+      "path": "reviewrush/slides/slide_0014.png",
+      "word_count": 3
+    },
+    {
+      "index": 15,
+      "text": "Here's the truth about local business today.",
+      "start": 28.160000000000004,
+      "end": 30.16,
+      "duration": 1.9999999999999964,
+      "path": "reviewrush/slides/slide_0015.png",
+      "word_count": 7
+    },
+    {
+      "index": 16,
+      "text": "88% of consumers trust online reviews",
+      "start": 30.74,
+      "end": 33.52,
+      "duration": 2.7800000000000047,
+      "path": "reviewrush/slides/slide_0016.png",
+      "word_count": 7
+    },
+    {
+      "index": 17,
+      "text": "as much as a personal recommendation",
+      "start": 33.52,
+      "end": 35.78,
+      "duration": 2.259999999999998,
+      "path": "reviewrush/slides/slide_0017.png",
+      "word_count": 6
+    },
+    {
+      "index": 18,
+      "text": "from a friend.",
+      "start": 35.78,
+      "end": 36.68,
+      "duration": 0.8999999999999986,
+      "path": "reviewrush/slides/slide_0018.png",
+      "word_count": 3
+    },
+    {
+      "index": 19,
+      "text": "Let that sink in.",
+      "start": 37.48,
+      "end": 38.46,
+      "duration": 0.980000000000004,
+      "path": "reviewrush/slides/slide_0019.png",
+      "word_count": 4
+    },
+    {
+      "index": 20,
+      "text": "A stranger's Google review carries the same weight",
+      "start": 39.16,
+      "end": 41.5,
+      "duration": 2.3400000000000034,
+      "path": "reviewrush/slides/slide_0020.png",
+      "word_count": 8
+    },
+    {
+      "index": 21,
+      "text": "as your best friend saying you",
+      "start": 41.5,
+      "end": 42.82,
+      "duration": 1.3200000000000003,
+      "path": "reviewrush/slides/slide_0021.png",
+      "word_count": 6
+    },
+    {
+      "index": 22,
+      "text": "got to try this place.",
+      "start": 42.82,
+      "end": 43.86,
+      "duration": 1.0399999999999991,
+      "path": "reviewrush/slides/slide_0022.png",
+      "word_count": 5
+    },
+    {
+      "index": 23,
+      "text": "So what happens when someone searches",
+      "start": 44.44,
+      "end": 46.02,
+      "duration": 1.5800000000000054,
+      "path": "reviewrush/slides/slide_0023.png",
+      "word_count": 6
+    },
+    {
+      "index": 24,
+      "text": "for what you do",
+      "start": 46.02,
+      "end": 46.84,
+      "duration": 0.8200000000000003,
+      "path": "reviewrush/slides/slide_0024.png",
+      "word_count": 4
+    },
+    {
+      "index": 25,
+      "text": "and your competitor has 147 reviews",
+      "start": 46.84,
+      "end": 50.0,
+      "duration": 3.1599999999999966,
+      "path": "reviewrush/slides/slide_0025.png",
+      "word_count": 6
+    },
+    {
+      "index": 26,
+      "text": "and you have 12, you lose,",
+      "start": 50.0,
+      "end": 51.98,
+      "duration": 1.9799999999999969,
+      "path": "reviewrush/slides/slide_0026.png",
+      "word_count": 6
+    },
+    {
+      "index": 27,
+      "text": "even if you're better?",
+      "start": 52.4,
+      "end": 53.38,
+      "duration": 0.980000000000004,
+      "path": "reviewrush/slides/slide_0027.png",
+      "word_count": 4
+    },
+    {
+      "index": 28,
+      "text": "The frustrating part?",
+      "start": 54.12,
+      "end": 55.1,
+      "duration": 0.980000000000004,
+      "path": "reviewrush/slides/slide_0028.png",
+      "word_count": 3
+    },
+    {
+      "index": 29,
+      "text": "You probably have happy customers.",
+      "start": 55.1,
+      "end": 57.26,
+      "duration": 2.1599999999999966,
+      "path": "reviewrush/slides/slide_0029.png",
+      "word_count": 5
+    },
+    {
+      "index": 30,
+      "text": "People who love what you do,",
+      "start": 57.66,
+      "end": 58.96,
+      "duration": 1.3000000000000043,
+      "path": "reviewrush/slides/slide_0030.png",
+      "word_count": 6
+    },
+    {
+      "index": 31,
+      "text": "but they leave, life gets busy,",
+      "start": 59.2,
+      "end": 61.44,
+      "duration": 2.239999999999995,
+      "path": "reviewrush/slides/slide_0031.png",
+      "word_count": 6
+    },
+    {
+      "index": 32,
+      "text": "and they never think to leave a review.",
+      "start": 61.66,
+      "end": 63.4,
+      "duration": 1.740000000000002,
+      "path": "reviewrush/slides/slide_0032.png",
+      "word_count": 8
+    },
+    {
+      "index": 33,
+      "text": "Meanwhile, every day that passes",
+      "start": 64.14,
+      "end": 65.76,
+      "duration": 1.6200000000000045,
+      "path": "reviewrush/slides/slide_0033.png",
+      "word_count": 5
+    },
+    {
+      "index": 34,
+      "text": "is another customer choosing your competitor",
+      "start": 65.76,
+      "end": 67.92,
+      "duration": 2.1599999999999966,
+      "path": "reviewrush/slides/slide_0034.png",
+      "word_count": 6
+    },
+    {
+      "index": 35,
+      "text": "because they look more trustworthy online.",
+      "start": 67.92,
+      "end": 70.28,
+      "duration": 2.3599999999999994,
+      "path": "reviewrush/slides/slide_0035.png",
+      "word_count": 6
+    },
+    {
+      "index": 36,
+      "text": "What if there was a system",
+      "start": 71.22,
+      "end": 72.4,
+      "duration": 1.1800000000000068,
+      "path": "reviewrush/slides/slide_0036.png",
+      "word_count": 6
+    },
+    {
+      "index": 37,
+      "text": "that made getting reviews automatic,",
+      "start": 72.4,
+      "end": 74.24,
+      "duration": 1.8399999999999892,
+      "path": "reviewrush/slides/slide_0037.png",
+      "word_count": 5
+    },
+    {
+      "index": 38,
+      "text": "not complicated software, not expensive marketing,",
+      "start": 74.78,
+      "end": 78.16,
+      "duration": 3.3799999999999955,
+      "path": "reviewrush/slides/slide_0038.png",
+      "word_count": 6
+    },
+    {
+      "index": 39,
+      "text": "just a simple proven process",
+      "start": 78.62,
+      "end": 80.46,
+      "duration": 1.8399999999999892,
+      "path": "reviewrush/slides/slide_0039.png",
+      "word_count": 5
+    },
+    {
+      "index": 40,
+      "text": "that nudges happy customers at exactly",
+      "start": 80.46,
+      "end": 83.04,
+      "duration": 2.5800000000000125,
+      "path": "reviewrush/slides/slide_0040.png",
+      "word_count": 6
+    },
+    {
+      "index": 41,
+      "text": "the right moment",
+      "start": 83.04,
+      "end": 83.82,
+      "duration": 0.7799999999999869,
+      "path": "reviewrush/slides/slide_0041.png",
+      "word_count": 3
+    },
+    {
+      "index": 42,
+      "text": "when they're most likely to say yes.",
+      "start": 83.82,
+      "end": 85.76,
+      "duration": 1.940000000000012,
+      "path": "reviewrush/slides/slide_0042.png",
+      "word_count": 7
+    },
+    {
+      "index": 43,
+      "text": "That's what I built with review rush.",
+      "start": 86.86,
+      "end": 88.8,
+      "duration": 1.9399999999999977,
+      "path": "reviewrush/slides/slide_0043.png",
+      "word_count": 7
+    },
+    {
+      "index": 44,
+      "text": "It's a complete toolkit, email templates,",
+      "start": 89.22,
+      "end": 92.26,
+      "duration": 3.0400000000000063,
+      "path": "reviewrush/slides/slide_0044.png",
+      "word_count": 6
+    },
+    {
+      "index": 45,
+      "text": "text message scripts,",
+      "start": 92.82,
+      "end": 93.8,
+      "duration": 0.980000000000004,
+      "path": "reviewrush/slides/slide_0045.png",
+      "word_count": 3
+    },
+    {
+      "index": 46,
+      "text": "QR codes, verbal scripts for in-person asks,",
+      "start": 94.36,
+      "end": 97.8,
+      "duration": 3.4399999999999977,
+      "path": "reviewrush/slides/slide_0046.png",
+      "word_count": 8
+    },
+    {
+      "index": 47,
+      "text": "and a follow-up sequence that reminds people",
+      "start": 98.26,
+      "end": 100.56,
+      "duration": 2.299999999999997,
+      "path": "reviewrush/slides/slide_0047.png",
+      "word_count": 8
+    },
+    {
+      "index": 48,
+      "text": "without being annoying.",
+      "start": 100.56,
+      "end": 101.56,
+      "duration": 1.0,
+      "path": "reviewrush/slides/slide_0048.png",
+      "word_count": 3
+    },
+    {
+      "index": 49,
+      "text": "Everything is written for you.",
+      "start": 102.5,
+      "end": 103.82,
+      "duration": 1.3199999999999932,
+      "path": "reviewrush/slides/slide_0049.png",
+      "word_count": 5
+    },
+    {
+      "index": 50,
+      "text": "You just customize it for your",
+      "start": 104.26,
+      "end": 105.62,
+      "duration": 1.3599999999999994,
+      "path": "reviewrush/slides/slide_0050.png",
+      "word_count": 6
+    },
+    {
+      "index": 51,
+      "text": "business, plug it in,",
+      "start": 105.62,
+      "end": 107.06,
+      "duration": 1.4399999999999977,
+      "path": "reviewrush/slides/slide_0051.png",
+      "word_count": 4
+    },
+    {
+      "index": 52,
+      "text": "and let it work.",
+      "start": 107.5,
+      "end": 108.2,
+      "duration": 0.7000000000000028,
+      "path": "reviewrush/slides/slide_0052.png",
+      "word_count": 4
+    },
+    {
+      "index": 53,
+      "text": "Here's why this works when everything else doesn't.",
+      "start": 108.82,
+      "end": 111.04,
+      "duration": 2.220000000000013,
+      "path": "reviewrush/slides/slide_0053.png",
+      "word_count": 8
+    },
+    {
+      "index": 54,
+      "text": "Most businesses make three mistakes when",
+      "start": 111.7,
+      "end": 113.86,
+      "duration": 2.1599999999999966,
+      "path": "reviewrush/slides/slide_0054.png",
+      "word_count": 6
+    },
+    {
+      "index": 55,
+      "text": "asking for reviews.",
+      "start": 113.86,
+      "end": 114.86,
+      "duration": 1.0,
+      "path": "reviewrush/slides/slide_0055.png",
+      "word_count": 3
+    },
+    {
+      "index": 56,
+      "text": "One, they ask at the wrong time.",
+      "start": 115.56,
+      "end": 117.62,
+      "duration": 2.0600000000000023,
+      "path": "reviewrush/slides/slide_0056.png",
+      "word_count": 7
+    },
+    {
+      "index": 57,
+      "text": "Review rush tells you exactly when",
+      "start": 118.18,
+      "end": 120.38,
+      "duration": 2.1999999999999886,
+      "path": "reviewrush/slides/slide_0057.png",
+      "word_count": 6
+    },
+    {
+      "index": 58,
+      "text": "to ask based on your business type.",
+      "start": 120.38,
+      "end": 122.48,
+      "duration": 2.1000000000000085,
+      "path": "reviewrush/slides/slide_0058.png",
+      "word_count": 7
+    },
+    {
+      "index": 59,
+      "text": "Timing is everything.",
+      "start": 122.96,
+      "end": 123.84,
+      "duration": 0.8800000000000097,
+      "path": "reviewrush/slides/slide_0059.png",
+      "word_count": 3
+    },
+    {
+      "index": 60,
+      "text": "Two, they ask once and give up.",
+      "start": 124.4,
+      "end": 127.0,
+      "duration": 2.5999999999999943,
+      "path": "reviewrush/slides/slide_0060.png",
+      "word_count": 7
+    },
+    {
+      "index": 61,
+      "text": "The follow-up sequence reminds people",
+      "start": 127.44,
+      "end": 129.3,
+      "duration": 1.8600000000000136,
+      "path": "reviewrush/slides/slide_0061.png",
+      "word_count": 6
+    },
+    {
+      "index": 62,
+      "text": "two, three, four times politely",
+      "start": 129.3,
+      "end": 131.38,
+      "duration": 2.079999999999984,
+      "path": "reviewrush/slides/slide_0062.png",
+      "word_count": 5
+    },
+    {
+      "index": 63,
+      "text": "until they take action.",
+      "start": 131.38,
+      "end": 132.7,
+      "duration": 1.3199999999999932,
+      "path": "reviewrush/slides/slide_0063.png",
+      "word_count": 4
+    },
+    {
+      "index": 64,
+      "text": "Three, they make it hard.",
+      "start": 133.28,
+      "end": 134.7,
+      "duration": 1.4199999999999875,
+      "path": "reviewrush/slides/slide_0064.png",
+      "word_count": 5
+    },
+    {
+      "index": 65,
+      "text": "The QR code system means one scan",
+      "start": 135.3,
+      "end": 137.46,
+      "duration": 2.1599999999999966,
+      "path": "reviewrush/slides/slide_0065.png",
+      "word_count": 7
+    },
+    {
+      "index": 66,
+      "text": "and they're on your Google review page.",
+      "start": 137.46,
+      "end": 139.88,
+      "duration": 2.4199999999999875,
+      "path": "reviewrush/slides/slide_0066.png",
+      "word_count": 7
+    },
+    {
+      "index": 67,
+      "text": "No searching, no friction.",
+      "start": 140.20999999999998,
+      "end": 142.0,
+      "duration": 1.7900000000000205,
+      "path": "reviewrush/slides/slide_0067.png",
+      "word_count": 4
+    },
+    {
+      "index": 68,
+      "text": "When you remove those three barriers,",
+      "start": 142.86,
+      "end": 144.5,
+      "duration": 1.6399999999999864,
+      "path": "reviewrush/slides/slide_0068.png",
+      "word_count": 6
+    },
+    {
+      "index": 69,
+      "text": "reviews come in consistently, not a flood overnight,",
+      "start": 145.18,
+      "end": 148.48,
+      "duration": 3.299999999999983,
+      "path": "reviewrush/slides/slide_0069.png",
+      "word_count": 8
+    },
+    {
+      "index": 70,
+      "text": "but a steady stream of five",
+      "start": 149.08,
+      "end": 150.5,
+      "duration": 1.4199999999999875,
+      "path": "reviewrush/slides/slide_0070.png",
+      "word_count": 6
+    },
+    {
+      "index": 71,
+      "text": "-star reviews week after week",
+      "start": 150.5,
+      "end": 152.66,
+      "duration": 2.1599999999999966,
+      "path": "reviewrush/slides/slide_0071.png",
+      "word_count": 5
+    },
+    {
+      "index": 72,
+      "text": "that compounds over time.",
+      "start": 152.98999999999998,
+      "end": 154.66,
+      "duration": 1.670000000000016,
+      "path": "reviewrush/slides/slide_0072.png",
+      "word_count": 4
+    },
+    {
+      "index": 73,
+      "text": "Mike owns an auto shop.",
+      "start": 155.48,
+      "end": 156.84,
+      "duration": 1.3600000000000136,
+      "path": "reviewrush/slides/slide_0073.png",
+      "word_count": 5
+    },
+    {
+      "index": 74,
+      "text": "He went from 12 reviews to",
+      "start": 157.34,
+      "end": 158.96,
+      "duration": 1.6200000000000045,
+      "path": "reviewrush/slides/slide_0074.png",
+      "word_count": 6
+    },
+    {
+      "index": 75,
+      "text": "67 in three months",
+      "start": 158.96,
+      "end": 160.5,
+      "duration": 1.539999999999992,
+      "path": "reviewrush/slides/slide_0075.png",
+      "word_count": 4
+    },
+    {
+      "index": 76,
+      "text": "using this exact system.",
+      "start": 160.5,
+      "end": 162.16,
+      "duration": 1.6599999999999966,
+      "path": "reviewrush/slides/slide_0076.png",
+      "word_count": 4
+    },
+    {
+      "index": 77,
+      "text": "Sarah runs a restaurant.",
+      "start": 162.92,
+      "end": 164.0,
+      "duration": 1.0800000000000125,
+      "path": "reviewrush/slides/slide_0077.png",
+      "word_count": 4
+    },
+    {
+      "index": 78,
+      "text": "She put a QR code on table tents",
+      "start": 164.62,
+      "end": 166.66,
+      "duration": 2.039999999999992,
+      "path": "reviewrush/slides/slide_0078.png",
+      "word_count": 8
+    },
+    {
+      "index": 79,
+      "text": "and now customers leave reviews",
+      "start": 166.66,
+      "end": 168.66,
+      "duration": 2.0,
+      "path": "reviewrush/slides/slide_0079.png",
+      "word_count": 5
+    },
+    {
+      "index": 80,
+      "text": "before they even leave the building.",
+      "start": 168.66,
+      "end": 170.34,
+      "duration": 1.6800000000000068,
+      "path": "reviewrush/slides/slide_0080.png",
+      "word_count": 6
+    },
+    {
+      "index": 81,
+      "text": "This isn't rocket science.",
+      "start": 170.7,
+      "end": 172.5,
+      "duration": 1.8000000000000114,
+      "path": "reviewrush/slides/slide_0081.png",
+      "word_count": 4
+    },
+    {
+      "index": 82,
+      "text": "It's just having the right words",
+      "start": 173.02,
+      "end": 174.4,
+      "duration": 1.3799999999999955,
+      "path": "reviewrush/slides/slide_0082.png",
+      "word_count": 6
+    },
+    {
+      "index": 83,
+      "text": "at the right time in the right format.",
+      "start": 174.4,
+      "end": 177.08,
+      "duration": 2.680000000000007,
+      "path": "reviewrush/slides/slide_0083.png",
+      "word_count": 8
+    },
+    {
+      "index": 84,
+      "text": "And that's what's inside review rush.",
+      "start": 177.7,
+      "end": 179.42,
+      "duration": 1.7199999999999989,
+      "path": "reviewrush/slides/slide_0084.png",
+      "word_count": 6
+    },
+    {
+      "index": 85,
+      "text": "Here's what you get.",
+      "start": 180.02,
+      "end": 180.92,
+      "duration": 0.8999999999999773,
+      "path": "reviewrush/slides/slide_0085.png",
+      "word_count": 4
+    },
+    {
+      "index": 86,
+      "text": "10 proven email templates.",
+      "start": 181.64,
+      "end": 183.04,
+      "duration": 1.4000000000000057,
+      "path": "reviewrush/slides/slide_0086.png",
+      "word_count": 4
+    },
+    {
+      "index": 87,
+      "text": "Copy, paste, send,",
+      "start": 183.82,
+      "end": 185.84,
+      "duration": 2.0200000000000102,
+      "path": "reviewrush/slides/slide_0087.png",
+      "word_count": 3
+    },
+    {
+      "index": 88,
+      "text": "five SMS templates for text-based follow-ups.",
+      "start": 186.6,
+      "end": 189.76,
+      "duration": 3.1599999999999966,
+      "path": "reviewrush/slides/slide_0088.png",
+      "word_count": 8
+    },
+    {
+      "index": 89,
+      "text": "Word for word, verbal scripts.",
+      "start": 190.3,
+      "end": 191.92,
+      "duration": 1.6199999999999761,
+      "path": "reviewrush/slides/slide_0089.png",
+      "word_count": 5
+    },
+    {
+      "index": 90,
+      "text": "So you know exactly what to",
+      "start": 192.32,
+      "end": 193.58,
+      "duration": 1.2600000000000193,
+      "path": "reviewrush/slides/slide_0090.png",
+      "word_count": 6
+    },
+    {
+      "index": 91,
+      "text": "say in person.",
+      "start": 193.58,
+      "end": 194.26,
+      "duration": 0.6799999999999784,
+      "path": "reviewrush/slides/slide_0091.png",
+      "word_count": 3
+    },
+    {
+      "index": 92,
+      "text": "A complete QR code setup guide",
+      "start": 194.86,
+      "end": 197.06,
+      "duration": 2.1999999999999886,
+      "path": "reviewrush/slides/slide_0092.png",
+      "word_count": 6
+    },
+    {
+      "index": 93,
+      "text": "so customers can review you in one tap.",
+      "start": 197.06,
+      "end": 199.38,
+      "duration": 2.319999999999993,
+      "path": "reviewrush/slides/slide_0093.png",
+      "word_count": 8
+    },
+    {
+      "index": 94,
+      "text": "The timing strategy guide so you",
+      "start": 199.66,
+      "end": 201.7,
+      "duration": 2.039999999999992,
+      "path": "reviewrush/slides/slide_0094.png",
+      "word_count": 6
+    },
+    {
+      "index": 95,
+      "text": "ask at the perfect moment.",
+      "start": 201.7,
+      "end": 203.48,
+      "duration": 1.7800000000000011,
+      "path": "reviewrush/slides/slide_0095.png",
+      "word_count": 5
+    },
+    {
+      "index": 96,
+      "text": "And a seven-day follow-up sequence",
+      "start": 204.08,
+      "end": 205.86,
+      "duration": 1.7800000000000011,
+      "path": "reviewrush/slides/slide_0096.png",
+      "word_count": 7
+    },
+    {
+      "index": 97,
+      "text": "that turns I'll do it later into done.",
+      "start": 205.86,
+      "end": 208.0,
+      "duration": 2.1399999999999864,
+      "path": "reviewrush/slides/slide_0097.png",
+      "word_count": 8
+    },
+    {
+      "index": 98,
+      "text": "Total value over $300.",
+      "start": 208.62,
+      "end": 210.4,
+      "duration": 1.7800000000000011,
+      "path": "reviewrush/slides/slide_0098.png",
+      "word_count": 4
+    },
+    {
+      "index": 99,
+      "text": "But you're not paying that.",
+      "start": 211.12,
+      "end": 212.36,
+      "duration": 1.240000000000009,
+      "path": "reviewrush/slides/slide_0099.png",
+      "word_count": 5
+    },
+    {
+      "index": 100,
+      "text": "Today you can get everything for just $47.",
+      "start": 212.92,
+      "end": 215.16,
+      "duration": 2.240000000000009,
+      "path": "reviewrush/slides/slide_0100.png",
+      "word_count": 8
+    },
+    {
+      "index": 101,
+      "text": "One time, no monthly fees, instant access.",
+      "start": 216.14,
+      "end": 219.42,
+      "duration": 3.280000000000001,
+      "path": "reviewrush/slides/slide_0101.png",
+      "word_count": 7
+    },
+    {
+      "index": 102,
+      "text": "Here's the thing.",
+      "start": 220.06,
+      "end": 220.84,
+      "duration": 0.7800000000000011,
+      "path": "reviewrush/slides/slide_0102.png",
+      "word_count": 3
+    },
+    {
+      "index": 103,
+      "text": "Your competitors are collecting reviews",
+      "start": 221.34,
+      "end": 223.24,
+      "duration": 1.9000000000000057,
+      "path": "reviewrush/slides/slide_0103.png",
+      "word_count": 5
+    },
+    {
+      "index": 104,
+      "text": "while you're watching this video.",
+      "start": 223.24,
+      "end": 224.72,
+      "duration": 1.4799999999999898,
+      "path": "reviewrush/slides/slide_0104.png",
+      "word_count": 5
+    },
+    {
+      "index": 105,
+      "text": "Every day you wait is another",
+      "start": 225.24,
+      "end": 226.64,
+      "duration": 1.3999999999999773,
+      "path": "reviewrush/slides/slide_0105.png",
+      "word_count": 6
+    },
+    {
+      "index": 106,
+      "text": "customer choosing them",
+      "start": 226.64,
+      "end": 227.96,
+      "duration": 1.3200000000000216,
+      "path": "reviewrush/slides/slide_0106.png",
+      "word_count": 3
+    },
+    {
+      "index": 107,
+      "text": "because they look more trustworthy.",
+      "start": 227.96,
+      "end": 229.84,
+      "duration": 1.8799999999999955,
+      "path": "reviewrush/slides/slide_0107.png",
+      "word_count": 5
+    },
+    {
+      "index": 108,
+      "text": "You don't have to be the",
+      "start": 230.52,
+      "end": 231.5,
+      "duration": 0.9799999999999898,
+      "path": "reviewrush/slides/slide_0108.png",
+      "word_count": 6
+    },
+    {
+      "index": 109,
+      "text": "best at what you do to",
+      "start": 231.5,
+      "end": 232.66,
+      "duration": 1.1599999999999966,
+      "path": "reviewrush/slides/slide_0109.png",
+      "word_count": 6
+    },
+    {
+      "index": 110,
+      "text": "win online.",
+      "start": 232.66,
+      "end": 233.42,
+      "duration": 0.7599999999999909,
+      "path": "reviewrush/slides/slide_0110.png",
+      "word_count": 2
+    },
+    {
+      "index": 111,
+      "text": "You just have to be the",
+      "start": 233.88,
+      "end": 234.8,
+      "duration": 0.9200000000000159,
+      "path": "reviewrush/slides/slide_0111.png",
+      "word_count": 6
+    },
+    {
+      "index": 112,
+      "text": "best at getting",
+      "start": 234.8,
+      "end": 235.44,
+      "duration": 0.6399999999999864,
+      "path": "reviewrush/slides/slide_0112.png",
+      "word_count": 3
+    },
+    {
+      "index": 113,
+      "text": "your happy customers to say you're the best.",
+      "start": 235.44,
+      "end": 237.74,
+      "duration": 2.3000000000000114,
+      "path": "reviewrush/slides/slide_0113.png",
+      "word_count": 8
+    },
+    {
+      "index": 114,
+      "text": "Review rush gives you everything you",
+      "start": 238.12,
+      "end": 239.7,
+      "duration": 1.579999999999984,
+      "path": "reviewrush/slides/slide_0114.png",
+      "word_count": 6
+    },
+    {
+      "index": 115,
+      "text": "need to do that.",
+      "start": 239.7,
+      "end": 240.56,
+      "duration": 0.8600000000000136,
+      "path": "reviewrush/slides/slide_0115.png",
+      "word_count": 4
+    },
+    {
+      "index": 116,
+      "text": "Click the button below, get instant access",
+      "start": 240.9,
+      "end": 243.24,
+      "duration": 2.3400000000000034,
+      "path": "reviewrush/slides/slide_0116.png",
+      "word_count": 7
+    },
+    {
+      "index": 117,
+      "text": "and start building your review engine today.",
+      "start": 243.24,
+      "end": 245.5,
+      "duration": 2.259999999999991,
+      "path": "reviewrush/slides/slide_0117.png",
+      "word_count": 7
+    },
+    {
+      "index": 118,
+      "text": "I'll see you inside.",
+      "start": 245.98,
+      "end": 246.92,
+      "duration": 0.9399999999999977,
+      "path": "reviewrush/slides/slide_0118.png",
+      "word_count": 4
+    }
+  ],
+  "total_slides": 118
+}

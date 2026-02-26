@@ -69,7 +69,7 @@ export default function Home() {
                   className="aspect-video w-full"
                   controls
                   autoPlay
-                  src="https://files.catbox.moe/1be873.mp4"
+                  src="https://files.catbox.moe/8kuimt.mp4"
                 >
                   Your browser does not support the video tag.
                 </video>
