@@ -29,9 +29,24 @@ export default function Home() {
       {/* HERO SECTION */}
       <section className="bg-gradient-to-b from-slate-900 to-slate-800 text-white py-16 px-4">
         <div className="max-w-4xl mx-auto text-center">
+          {/* Pre-headline */}
+          <p className="text-yellow-400 font-semibold mb-4 text-lg">
+            For Local Business Owners Who Are Tired of Begging for Reviews
+          </p>
           
-          {/* VSL Video - BEFORE HEADLINE */}
-          <div className="mb-12 max-w-3xl mx-auto">
+          {/* Main Headline */}
+          <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+            Get <span className="text-yellow-400">5-Star Reviews</span> on Autopilot<br />
+            Without Awkward Asks
+          </h1>
+          
+          {/* Subheadline */}
+          <p className="text-xl md:text-2xl text-slate-300 mb-8 max-w-2xl mx-auto">
+            The complete system that turns happy customers into Google reviews — automatically.
+          </p>
+          
+          {/* VSL Video - RIGHT AFTER HEADLINE */}
+          <div className="mb-8 max-w-3xl mx-auto">
             <div className="relative rounded-xl overflow-hidden shadow-2xl bg-slate-800">
               {!isVideoPlaying ? (
                 <div 
@@ -61,22 +76,6 @@ export default function Home() {
               )}
             </div>
           </div>
-
-          {/* Pre-headline */}
-          <p className="text-yellow-400 font-semibold mb-4 text-lg">
-            For Local Business Owners Who Are Tired of Begging for Reviews
-          </p>
-          
-          {/* Main Headline */}
-          <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-            Get <span className="text-yellow-400">5-Star Reviews</span> on Autopilot<br />
-            Without Awkward Asks
-          </h1>
-          
-          {/* Subheadline */}
-          <p className="text-xl md:text-2xl text-slate-300 mb-8 max-w-2xl mx-auto">
-            The complete system that turns happy customers into Google reviews — automatically.
-          </p>
           
           {/* CTA Button */}
           <a 
