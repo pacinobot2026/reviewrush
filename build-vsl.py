@@ -17,9 +17,9 @@ HEIGHT = 1080
 BG_COLOR = (26, 26, 46)  # Dark navy/black
 TEXT_COLOR = (255, 255, 255)  # White
 EMPHASIS_COLOR = (255, 215, 0)  # Yellow/gold
-OUTPUT_DIR = "reviewrush/slides"
-AUDIO_PATH = "reviewrush/vsl-audio.mp3"
-JSON_PATH = "reviewrush/whisper-output/vsl-audio.json"
+OUTPUT_DIR = "reviewrush/slides-chad"
+AUDIO_PATH = "reviewrush/vsl-audio-chad.mp3"
+JSON_PATH = "reviewrush/whisper-chad/vsl-audio-chad.json"
 
 # Emphasis words/phrases to highlight in yellow
 EMPHASIS_WORDS = {
@@ -189,7 +189,7 @@ def build_video(slides):
     # Build concat filter
     concat_filter = ''.join(filter_parts) + f'concat=n={len(slides)}:v=1:a=0[v]'
     
-    output_path = 'reviewrush/vsl-final.mp4'
+    output_path = 'reviewrush/vsl-chad-final.mp4'
     
     cmd = [
         'ffmpeg', '-y',
