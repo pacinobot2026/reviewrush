@@ -61,7 +61,7 @@ export default function Home() {
                       </svg>
                     </div>
                     <p className="text-lg font-semibold text-white">Watch: How ReviewRush Works</p>
-                    <p className="text-sm text-slate-400 mt-1">4 minute video</p>
+                    <p className="text-sm text-slate-400 mt-1">3 minute video</p>
                   </div>
                 </div>
               ) : (
