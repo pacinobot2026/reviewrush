@@ -4,6 +4,25 @@ import { useState } from 'react';
 
 export default function Home() {
   const [isVideoPlaying, setIsVideoPlaying] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+
+  const handleCheckout = async () => {
+    setIsLoading(true);
+    try {
+      const response = await fetch('/api/create-checkout', {
+        method: 'POST',
+      });
+      const data = await response.json();
+      if (data.url) {
+        window.location.href = data.url;
+      } else {
+        alert('Error creating checkout session. Please try again.');
+      }
+    } catch (error) {
+      alert('Error processing payment. Please try again.');
+    }
+    setIsLoading(false);
+  };
 
   return (
     <main className="min-h-screen bg-white">
@@ -191,12 +210,13 @@ export default function Home() {
               ))}
             </ul>
             
-            <a 
-              href="https://buy.stripe.com/placeholder"
-              className="block w-full bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg text-xl transition-all transform hover:scale-105"
+            <button 
+              onClick={handleCheckout}
+              disabled={isLoading}
+              className="block w-full bg-green-500 hover:bg-green-600 disabled:bg-green-300 text-white font-bold py-4 px-8 rounded-lg text-xl transition-all transform hover:scale-105"
             >
-              Get Instant Access →
-            </a>
+              {isLoading ? 'Processing...' : 'Get Instant Access →'}
+            </button>
             
             <p className="mt-4 text-slate-500 text-sm">
               🔒 Secure checkout powered by Stripe
