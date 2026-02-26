@@ -56,6 +56,38 @@ export default function Home() {
           <p className="mt-4 text-slate-400 text-sm">
             One-time payment. Instant access. No monthly fees.
           </p>
+          
+          {/* VSL Video */}
+          <div className="mt-12 max-w-3xl mx-auto">
+            <div className="relative rounded-xl overflow-hidden shadow-2xl bg-slate-800">
+              {!isVideoPlaying ? (
+                <div 
+                  className="aspect-video flex items-center justify-center cursor-pointer group"
+                  onClick={() => setIsVideoPlaying(true)}
+                >
+                  <div className="absolute inset-0 bg-gradient-to-br from-slate-700 to-slate-900"></div>
+                  <div className="relative z-10 text-center">
+                    <div className="w-20 h-20 mx-auto mb-4 bg-yellow-400 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform shadow-lg">
+                      <svg className="w-8 h-8 text-slate-900 ml-1" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M8 5v14l11-7z"/>
+                      </svg>
+                    </div>
+                    <p className="text-lg font-semibold text-white">Watch: How ReviewRush Works</p>
+                    <p className="text-sm text-slate-400 mt-1">4 minute video</p>
+                  </div>
+                </div>
+              ) : (
+                <video
+                  className="aspect-video w-full"
+                  controls
+                  autoPlay
+                  src="https://files.catbox.moe/xxp1f2.mp4"
+                >
+                  Your browser does not support the video tag.
+                </video>
+              )}
+            </div>
+          </div>
         </div>
       </section>
 
