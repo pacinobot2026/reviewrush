@@ -17,9 +17,9 @@ HEIGHT = 1080
 BG_COLOR = (26, 26, 46)  # Dark navy/black
 TEXT_COLOR = (255, 255, 255)  # White
 EMPHASIS_COLOR = (255, 215, 0)  # Yellow/gold
-OUTPUT_DIR = "reviewrush/slides-chad-v2"
-AUDIO_PATH = "reviewrush/vsl-audio-chad-v2.mp3"
-JSON_PATH = "reviewrush/whisper-chad-v2/vsl-audio-chad-v2.json"
+OUTPUT_DIR = "slides-chad-v2"
+AUDIO_PATH = "vsl-audio-chad-v2.mp3"
+JSON_PATH = "whisper-chad-v2/vsl-audio-chad-v2.json"
 
 # Emphasis words/phrases to highlight in yellow
 EMPHASIS_WORDS = {
@@ -189,7 +189,7 @@ def build_video(slides):
     # Build concat filter
     concat_filter = ''.join(filter_parts) + f'concat=n={len(slides)}:v=1:a=0[v]'
     
-    output_path = 'reviewrush/vsl-chad-v2-final.mp4'
+    output_path = 'vsl-chad-v2-final.mp4'
     
     cmd = [
         'ffmpeg', '-y',
@@ -223,7 +223,7 @@ def main():
     print(f"Created {len(slides)} slides")
     
     # Save slides.json for reference
-    with open('reviewrush/slides.json', 'w') as f:
+    with open('slides.json', 'w') as f:
         json.dump({'slides': slides, 'total_slides': len(slides)}, f, indent=2)
     
     print("Building video...")
