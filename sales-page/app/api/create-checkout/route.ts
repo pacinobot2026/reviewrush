@@ -24,6 +24,8 @@ export async function POST() {
       mode: 'payment',
       success_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://reviewrush-pacino-bots-projects.vercel.app'}/success?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://reviewrush-pacino-bots-projects.vercel.app'}/`,
+    }, {
+      stripeAccount: process.env.STRIPE_ACCOUNT_ID || 'acct_1T4AreCDxYH1XF8F',
     });
 
     return NextResponse.json({ url: session.url });
